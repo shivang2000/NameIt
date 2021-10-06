@@ -19,6 +19,6 @@
     color: #e7e9f0;
 }
 
-.search-input:: focus {
+.search-input::focus {
     outline: none;
 }
